@@ -1,0 +1,148 @@
+print("1,")
+message = "Hello World!"
+print(message)
+
+print("*" * 30)
+
+print("2,")
+message = "Hello World!"
+print(message)
+message = "There is alot fun in doing Python!"
+print(message)
+
+print("*" * 30)
+
+print("3,")
+name = "Saadi"
+print("Hello", name, ", would you like to learn some Python today?")
+
+print("*" * 30)
+
+print("4,")
+name = "Saadi Rana"
+print(name.lower())
+print(name.upper())
+print(name.title())
+
+print("*" * 30)
+
+print("5,")
+
+quote = "\"AI is FAR more dangerous than the Nukes\""
+author = "Elon Musk"
+print(author, "once said,", quote)
+
+print("*" * 30)
+
+print("6,")
+famous_person = "Elon Musk"
+message = famous_person + " said, \"AI is FAR more dangerous than the Nukes.\""
+print(message)
+
+print("*" * 30)
+
+print("7,")
+name = "\t  Elon Musk  \n"
+print(name)
+print(name.lstrip())
+print(name.rstrip())
+print(name.strip())
+
+print("*" * 30)
+
+print("8,")
+
+x = 5
+y = 10
+z = 15
+sum = x + y + z
+print(sum)
+
+print("*" * 30)
+
+print("9,")
+
+a = 10
+b = 20
+print("Before swap:", a, b)
+a, b = b, a
+print("After swap:", a, b)
+
+print("*" * 30)
+
+print("10,")
+
+color = "blue"
+print(color)
+
+favorite_color = color
+print(favorite_color)
+
+print("*" * 30)
+
+print("11,")
+
+pet_name = "Buddy"
+pet_name = "Max"
+print(pet_name)
+
+print("*" * 30)
+
+print("12,")
+
+message = "Sunshine"
+print(message)
+
+print("*" * 30)
+
+print("13,")
+
+score = 100
+print(score)
+score = 95
+print(score)
+
+print("*" * 30)
+
+print("14,")
+
+city = "Lahore"
+print(city)
+
+print("*" * 30)
+
+print("15,")
+
+message = "python programming"
+print(message.title())
+
+print("*" * 30)
+
+print("16,")
+
+message = "Python PrOgRaMmInG"
+print(message.lower())
+
+print("*" * 30)
+
+print("17,")
+
+message = "Python PrOgRaMmInG"
+print(message.upper())
+
+print("*" * 30)
+
+print("18,")
+
+temperature = 25
+print("The current temperature is", temperature, "degrees.")
+
+print("*" * 30)
+
+print("19,")
+
+poem = """A partridge and a quail, you see,
+Were both as brave as lions could be.
+They fought and fought until it was clear,
+One lost its beak, the other its rear."""
+print(poem)
